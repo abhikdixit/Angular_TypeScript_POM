@@ -6,7 +6,7 @@
     "jasmine": "^3.1.0",
     "jasmine-allure-reporter": "^1.0.2",
     "jasmine-data-provider": "^2.2.0",
-    "log4js": "^3.0.5",
+    "log4js": "^6.4.0",
     "log4js-protractor-appender": "^1.1.2",
     "npm": "^6.8.0",
     "protractor": "^5.4.2",
